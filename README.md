@@ -1,3 +1,9 @@
+This is a Fiverr version of the Solr Mongo Importer. The changes are: It uses the mongo 2.11.1 java driver and it sets the mongo replica set mode to 'secondary preferred'. Two lines of changes..
+
+
+
+============================================
+ORIGINAL DOCUMENTATION..
 # Solr Mongo Importer
 Welcome to the Solr Mongo Importer project. This project provides MongoDb support for the Solr Data Import Handler.
 
